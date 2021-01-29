@@ -1,4 +1,4 @@
-$( "#top-menu , #bot-menu " ).click(function() {
+$( "#top , #bot" ).click(function() {
 
 	$('#contact').addClass('animated fadeOut');
 
