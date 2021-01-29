@@ -1,5 +1,5 @@
 # Sliding Doors - Animated Responsive Landing Page Template from Webmasterbits.com
-A responsive animated landing page template. HTML, CSS & JavaScript.
+A responsive animated landing page template.
 
 Live Preview: https://sliding-doors.webmasterbits.com
 
