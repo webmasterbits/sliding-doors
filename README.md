@@ -1,5 +1,5 @@
-# Sliding Doors - Animated Responsive Landing Page Template from Webmasterbits.com
-A responsive animated landing page template.
+# Animated Landing Page Template
+Whitespace is a responsive animated website template.
 
 Live Preview: https://sliding-doors.webmasterbits.com
 
